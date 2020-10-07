@@ -7,4 +7,4 @@ Fetch tweets from twitter api then
 Finding link
 
 
-Software and programing language - Python, react.
+Software and programing language - Python, ReactJS.
